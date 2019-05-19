@@ -1,0 +1,3 @@
+# Bleeding edge Django
+Django==2.2.1
+
